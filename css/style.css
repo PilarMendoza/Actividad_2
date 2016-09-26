@@ -124,10 +124,10 @@ p{
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
 
-.menu:link{color: #fad208; text-decoration: none;}
-.menu:visited{color: #fad208; text-decoration: none;}
-.menu:hover{color: #fad208; text-decoration: none; text-shadow: 0 0 13px white;}
-.menu:active{color: #fad208; text-decoration: none;}
+.menu:link{color: white; text-decoration: #fad208;}
+.menu:visited{color: white; text-decoration: #fad208;}
+.menu:hover{color: white; text-decoration: #fad208; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: #fad208;}
 
 /*SEUDO CLASES*/
 
