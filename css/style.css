@@ -52,7 +52,7 @@ text-align: center;
 header{
 	width: 1000px;
 	height: 120 px;
-	background: rgba(255, 255, 255, 10,70);
+	background: 0F35E0(255, 255, 255, 10,70);
 }
 
 nav{
@@ -71,7 +71,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: 0A228B;
+	background: black;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
