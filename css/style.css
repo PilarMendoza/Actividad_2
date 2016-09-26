@@ -58,7 +58,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: #fad208;
 border-radius: 10px;
 
 }
@@ -100,7 +100,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: background-url: http://api.thumbr.it/whitenoise-361x370.png?background=fad208ff&noise=626262&density=15&opacity=15
+background: maroon;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
