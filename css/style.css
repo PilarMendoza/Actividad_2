@@ -29,7 +29,7 @@ h1{
 font-family: 'Shadows Into Light', cursive;
 color: white;
 margin-left: 10px;
-font-size: 20px;
+font-size: 30px;
 text-align: center; 
 }
 
@@ -96,7 +96,92 @@ aside{
 	margin-top: 20px;
 	border-radius: 10px;
 }
+<!DOCTYPE html>
 
+
+<html lang="es" class"no-js">
+
+ <!-- Hola soy un comentario...  -->
+
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta content="Pilar Mendoza" name="author"/>
+    <meta content="Objeto virtual de aprendizaje UNAD" name="description" />
+    <meta content="educacion, Unad, aprender, diseño web" name="keywords" />
+	<title>Actividad_2</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light|Indie+Flower' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>	
+
+<Div id="contenidos">
+
+	<header>
+	     <img src="img/banner.png" alt="UNAD">
+		<h1>OBJETO VIRTUAL DE APRENDIZAJE PARA DISEÑO DE SITIOS WEB</h1>
+		<h2>Curso Diseño de Sitios web</h2>
+	</header>
+
+<nav>
+	<ul class="menu">
+		<li><a href="#" class="menu">Inicio</a></li>
+		<li><a href="#"class="menu">Lecturas</a></li>
+		<li><a href="#" class="menu">Multimedia</a></li>
+		<li><a href="#" class="menu">Actividades</a></li>
+		<li><a href="#" class="menu">Autores</a></li>
+	</ul>
+</nav>
+
+<section>
+	<article>
+		<h2>UNAD</h2>
+		<figure>
+			<img src="img/logo.png" alt="UNAD">
+			<figcaption>
+				<span>
+				UNAD<a href="http://www.hp.com" class="menu">UNAD</a>
+				</span>
+			</figcaption>
+		</figure>
+
+    <p>
+    	Articulos de Interes
+    </p>
+	</article>
+</section>
+
+<aside>
+		<p>
+    	Articulos de Interes
+    	</p>	
+</aside>
+
+<Footer><h3>Copyright Todos los Derechos Reservados</h3></Footer>
+
+
+
+
+
+
+</Div>
+</body>
+
+
+<script src="js/modernizr.js"></script>   
+<script src="js/prefixfree.min.js"></script>
+<script src="js/jquery-2.1.1.js"></script>   
+
+
+
+
+
+</html>
 footer{
 width: 1000px;
 height: 70px;
