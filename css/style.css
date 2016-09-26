@@ -71,7 +71,7 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: black;
+	background: 080BA9;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
@@ -80,7 +80,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
